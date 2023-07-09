@@ -1,13 +1,15 @@
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 1
-# PROCESS-NAME: 27
-# TOTAL: 32
+# PROCESS-NAME: 29
+# TOTAL: 34
 payload:
   - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-KEYWORD,thunder
   - DOMAIN-KEYWORD,xlliveud
   - DOMAIN-KEYWORD,xunlei
   - DOMAIN-KEYWORD,yunpan
+  - PROCESS-NAME,115
+  - PROCESS-NAME,115.exe
   - PROCESS-NAME,BitComet
   - PROCESS-NAME,BitComet.exe
   - PROCESS-NAME,BitComet_x64.exe
