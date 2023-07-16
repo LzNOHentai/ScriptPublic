@@ -52,3 +52,4 @@ payload:
   - DOMAIN-SUFFIX,z.cn
   - DOMAIN-SUFFIX,images-cn-8.ssl-images-amazon.com
   - DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.cn
