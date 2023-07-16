@@ -1,6 +1,6 @@
 # NAME: AmazonCN
-# DOMAIN-SUFFIX: 50
-# TOTAL: 50
+# DOMAIN-SUFFIX: 51
+# TOTAL: 51
 payload:
   - DOMAIN-SUFFIX,a2z.org.cn
   - DOMAIN-SUFFIX,aboutamazon.cn
