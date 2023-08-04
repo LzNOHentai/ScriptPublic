@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,alexa.com
   - DOMAIN-SUFFIX,amaaozn.com
+  - DOMAIN-SUFFIX,amazon.dev
   - DOMAIN-SUFFIX,amazon
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amazon-fashions.com
@@ -69,6 +70,7 @@ payload:
   - DOMAIN-SUFFIX,amazonsdi.com
   - DOMAIN-SUFFIX,amazonses.com
   - DOMAIN-SUFFIX,amazonstudiosguilds.com
+  - DOMAIN-SUFFIX,amazontools.com
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,amazonuniversity.jobs
   - DOMAIN-SUFFIX,amazonvideo.cc
@@ -105,6 +107,7 @@ payload:
   - DOMAIN-SUFFIX,awstrust.com
   - DOMAIN-SUFFIX,boxofficemojo.com
   - DOMAIN-SUFFIX,cdkworkshop.com
+  - DOMAIN-SUFFIX,cloudfront.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,containersonaws.com
   - DOMAIN-SUFFIX,createspace.com
