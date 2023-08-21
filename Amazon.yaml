@@ -1,9 +1,9 @@
 # NAME: Amazon
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 160
+# DOMAIN-SUFFIX: 161
 # IP-CIDR: 15
 # PROCESS-NAME: 1
-# TOTAL: 177
+# TOTAL: 178
 payload:
   - DOMAIN-SUFFIX,a2z.com
   - DOMAIN-SUFFIX,aboutamazon.co.uk
