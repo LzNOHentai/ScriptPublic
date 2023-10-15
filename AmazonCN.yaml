@@ -1,6 +1,6 @@
 # NAME: AmazonCN
-# DOMAIN-SUFFIX: 51
-# TOTAL: 51
+# DOMAIN-SUFFIX: 54
+# TOTAL: 54
 payload:
   - DOMAIN-SUFFIX,a2z.org.cn
   - DOMAIN-SUFFIX,aboutamazon.cn
@@ -49,7 +49,11 @@ payload:
   - DOMAIN-SUFFIX,route53.cn
   - DOMAIN-SUFFIX,sagemaker.com.cn
   - DOMAIN-SUFFIX,yamaxun.cn
+  - DOMAIN-SUFFIX,yamaxun
+  - DOMAIN-SUFFIX,yamaxun.com
   - DOMAIN-SUFFIX,z.cn
+  - DOMAIN-SUFFIX,amazonaws-china.com
   - DOMAIN-SUFFIX,images-cn-8.ssl-images-amazon.com
   - DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com
   - DOMAIN-SUFFIX,ssl-images-amazon.cn
+  
