@@ -1,9 +1,9 @@
 # NAME: Amazon
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 161
+# DOMAIN-SUFFIX: 159
 # IP-CIDR: 15
 # PROCESS-NAME: 1
-# TOTAL: 178
+# TOTAL: 176
 payload:
   - DOMAIN-SUFFIX,a2z.com
   - DOMAIN-SUFFIX,aboutamazon.co.uk
@@ -163,8 +163,6 @@ payload:
   - DOMAIN-SUFFIX,wholeplanetfoundation.org
   - DOMAIN-SUFFIX,xn--cckwcxetd
   - DOMAIN-SUFFIX,xn--jlq480n2rg
-  - DOMAIN-SUFFIX,yamaxun
-  - DOMAIN-SUFFIX,yamaxun.com
   - DOMAIN-SUFFIX,zappos
   - DOMAIN-KEYWORD,avoddashs
   - IP-CIDR,13.32.0.0/15
