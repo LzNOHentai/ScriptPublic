@@ -1,10 +1,14 @@
-# NAME: eHentai&nhentai
-# UPDATED: 2023-09-16
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# NAME: Somesites
+# UPDATED: 2023-10-29
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
   - DOMAIN-SUFFIX,ehgt.org
   - DOMAIN-SUFFIX,hath.network
   - DOMAIN-SUFFIX,nhentai.net
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,18comic.org
+  - DOMAIN-SUFFIX,jmcomic.me
+  - DOMAIN-SUFFIX,jmcomic1.me
