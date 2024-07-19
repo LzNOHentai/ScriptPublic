@@ -1,13 +1,14 @@
 # NAME: Somesites
 # UPDATED: 2024-07-19
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
   - DOMAIN-SUFFIX,ehgt.org
   - DOMAIN-SUFFIX,hath.network
   - DOMAIN-SUFFIX,hentaiverse.org
+  - DOMAIN-SUFFIX,ehwiki.org
   - DOMAIN-SUFFIX,exhentai55ld2wyap5juskbm67czulomrouspdacjamjeloj7ugjbsad.onion
   - DOMAIN-SUFFIX,nhentai.net
   - DOMAIN-SUFFIX,18comic.vip
