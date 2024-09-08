@@ -1,7 +1,7 @@
 # NAME: Somesites
-# UPDATED: 2024-07-21
-# DOMAIN-SUFFIX: 23
-# TOTAL: 23
+# UPDATED: 2024-09-09
+# DOMAIN-SUFFIX: 24
+# TOTAL: 24
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,qy0.ru
   - DOMAIN-SUFFIX,wzip.download
   - DOMAIN-SUFFIX,wzip.date
+  - DOMAIN-SUFFIX,irodoricomics.com
