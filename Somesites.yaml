@@ -1,7 +1,7 @@
 # NAME: Somesites
-# UPDATED: 2024-09-09
-# DOMAIN-SUFFIX: 24
-# TOTAL: 24
+# UPDATED: 2024-09-24
+# DOMAIN-SUFFIX: 27
+# TOTAL: 27
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
@@ -27,3 +27,6 @@ payload:
   - DOMAIN-SUFFIX,wzip.download
   - DOMAIN-SUFFIX,wzip.date
   - DOMAIN-SUFFIX,irodoricomics.com
+  - DOMAIN-SUFFIX,agedm.org
+  - DOMAIN-SUFFIX,agedm.app
+  - DOMAIN-SUFFIX,age.tv
