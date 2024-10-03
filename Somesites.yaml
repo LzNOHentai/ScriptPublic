@@ -1,7 +1,8 @@
 # NAME: Somesites
-# UPDATED: 2024-09-24
-# DOMAIN-SUFFIX: 27
-# TOTAL: 27
+# Describtion: These domains should be accessed with proxies except for JP/KR.
+# UPDATED: 2024-10-03
+# DOMAIN-SUFFIX: 29
+# TOTAL: 29
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
@@ -30,3 +31,5 @@ payload:
   - DOMAIN-SUFFIX,agedm.org
   - DOMAIN-SUFFIX,agedm.app
   - DOMAIN-SUFFIX,age.tv
+  - DOMAIN-SUFFIX,esjzone.me
+  - DOMAIN-SUFFIX,esjzone.cc
