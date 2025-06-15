@@ -1,9 +1,9 @@
 # NAME: Somesites
 # Describtion: These domains should be accessed with proxies except for JP/KR.
-# UPDATED: 2025-04-27
-# DOMAIN-SUFFIX: 31
+# UPDATED: 2025-06-15
+# DOMAIN-SUFFIX: 32
 # DOMAIN-KEYWORD: 1
-# TOTAL: 32
+# TOTAL: 33
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
@@ -37,3 +37,4 @@ payload:
   - DOMAIN-SUFFIX,acgrip.com
   - DOMAIN-SUFFIX,ksy.moe
   - DOMAIN-SUFFIX,fakku.net
+  - DOMAIN-SUFFIX,jastusa.com
