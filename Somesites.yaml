@@ -1,9 +1,9 @@
 # NAME: Somesites
 # Describtion: These domains should be accessed with proxies except for JP/KR.
-# UPDATED: 2025-06-22
-# DOMAIN-SUFFIX: 33
+# UPDATED: 2025-06-24
+# DOMAIN-SUFFIX: 34
 # DOMAIN-KEYWORD: 1
-# TOTAL: 34
+# TOTAL: 35
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,wnbbs.cc
   - DOMAIN-SUFFIX,qy0.ru
   - DOMAIN-SUFFIX,wzip.download
+  - DOMAIN-SUFFIX,mangafunb.fun
   - DOMAIN-SUFFIX,wzip.date
   - DOMAIN-SUFFIX,irodoricomics.com
   - DOMAIN-SUFFIX,agedm.org
