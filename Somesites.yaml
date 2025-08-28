@@ -1,9 +1,9 @@
 # NAME: Somesites
 # Describtion: These domains should be accessed with proxy except for JP/KR.
-# UPDATED: 2025-08-20
-# DOMAIN-SUFFIX: 39
+# UPDATED: 2025-08-29
+# DOMAIN-SUFFIX: 40
 # DOMAIN-KEYWORD: 1
-# TOTAL: 40
+# TOTAL: 41
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
@@ -45,3 +45,4 @@ payload:
   - DOMAIN-SUFFIX,hmarket.io
   - DOMAIN-SUFFIX,doujin.io
   - DOMAIN-SUFFIX,nyaa.si
+  - DOMAIN-SUFFIX,kemono.party
