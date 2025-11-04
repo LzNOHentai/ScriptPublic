@@ -1,8 +1,9 @@
 # NAME: Somesites
 # Describtion: These domains should be accessed with proxy except for JP/KR.
-# UPDATED: 2025-09-16
-# DOMAIN-SUFFIX: 41
+# UPDATED: 2025-11-04
+# DOMAIN-SUFFIX: 40
 # DOMAIN-KEYWORD: 2
+# DOMAIN-REGEX: 1
 # TOTAL: 43
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
@@ -47,4 +48,4 @@ payload:
   - DOMAIN-SUFFIX,cycani.org
   - DOMAIN-KEYWORD,kemono
   - DOMAIN-SUFFIX,denpasoft.com
-  - DOMAIN-WILDCARD,javdb*.com
+  - DOMAIN-REGEX,javdb*.com
