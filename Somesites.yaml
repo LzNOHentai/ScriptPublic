@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,jmcomic.me
   - DOMAIN-SUFFIX,jmcomic1.me
   - DOMAIN-SUFFIX,hanime1.me
-  - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,jpvhub.com
   - DOMAIN-SUFFIX,javhoo.com
@@ -48,3 +47,4 @@ payload:
   - DOMAIN-SUFFIX,cycani.org
   - DOMAIN-KEYWORD,kemono
   - DOMAIN-SUFFIX,denpasoft.com
+  - DOMAIN-WILDCARD,javdb*.com
