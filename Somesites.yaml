@@ -1,10 +1,10 @@
 # NAME: Somesites
 # Describtion: These domains should be accessed with proxy except for JP/KR.
-# UPDATED: 2025-11-04
-# DOMAIN-SUFFIX: 40
+# UPDATED: 2025-11-21
+# DOMAIN-SUFFIX: 43
 # DOMAIN-KEYWORD: 2
 # DOMAIN-REGEX: 1
-# TOTAL: 43
+# TOTAL: 46
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,jmcomic.me
   - DOMAIN-SUFFIX,jmcomic1.me
   - DOMAIN-SUFFIX,hanime1.me
+  - DOMAIN-SUFFIX,hanimeone.me
+  - DOMAIN-SUFFIX,hanime1.com
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,jpvhub.com
   - DOMAIN-SUFFIX,javhoo.com
@@ -36,7 +38,6 @@ payload:
   - DOMAIN-SUFFIX,agedm.vip
   - DOMAIN-SUFFIX,age.tv
   - DOMAIN-SUFFIX,agefans.la
-  - DOMAIN-KEYWORD,esjzone
   - DOMAIN-SUFFIX,acgrip.com
   - DOMAIN-SUFFIX,ksy.moe
   - DOMAIN-SUFFIX,fakku.net
@@ -46,6 +47,8 @@ payload:
   - DOMAIN-SUFFIX,doujin.io
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,cycani.org
-  - DOMAIN-KEYWORD,kemono
   - DOMAIN-SUFFIX,denpasoft.com
+  - DOMAIN-SUFFIX,jkforum.net
+  - DOMAIN-KEYWORD,kemono
   - DOMAIN-REGEX,javdb*.com
+  - DOMAIN-KEYWORD,esjzone
