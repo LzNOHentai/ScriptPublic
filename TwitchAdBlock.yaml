@@ -1,0 +1,16 @@
+# NAME: TwitchAdBlock
+# AUTHOR: TTV LOL PRO
+# REPO: https://wiki.cdn-perfprod.com/must-read/how-it-works#how-it-works
+# UPDATED: 2026-04-30
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 1
+# TOTAL: 7
+
+payload:
+  - DOMAIN,video-weaver.*.hls.ttvnw.net
+  - DOMAIN,*.playlist.live-video.net
+  - DOMAIN,*.playlist.ttvnw.net
+  - DOMAIN,usher.ttvnw.net
+  - DOMAIN,gql.twitch.tv
+#  - DOMAIN,passport.twitch.tv
+#  - DOMAIN-SUFFIX,twitch.tv
