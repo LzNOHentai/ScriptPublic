@@ -1,10 +1,10 @@
 # NAME: Somesites
 # Describtion: These domains should be accessed with proxy except for JP/KR.
-# UPDATED: 2026-06-10
-# DOMAIN-SUFFIX: 44
+# UPDATED: 2026-06-23
+# DOMAIN-SUFFIX: 45
 # DOMAIN-KEYWORD: 2
 # DOMAIN-REGEX: 1
-# TOTAL: 47
+# TOTAL: 48
 payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,denpasoft.com
   - DOMAIN-SUFFIX,jkforum.net
   - DOMAIN-SUFFIX,av4us.asia
+  - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-KEYWORD,kemono
   - DOMAIN-REGEX,javdb*.com
   - DOMAIN-KEYWORD,esjzone
