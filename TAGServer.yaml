@@ -1,9 +1,0 @@
-# NAME: TAGServer
-# Describtion: These domains should be accessed with Direct.
-# UPDATED: 2026-09-10
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
-payload:
-  - DOMAIN,rama991.siamparagon.org
-  - DOMAIN-SUFFIX,tagss14.pro
