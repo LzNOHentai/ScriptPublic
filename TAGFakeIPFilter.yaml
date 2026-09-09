@@ -1,0 +1,9 @@
+# NAME: TAGFakeIPFilter
+# Describtion: These domains should be resolved directly.
+# UPDATED: 2026-09-10
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,definition-meaning.top
+  - DOMAIN-SUFFIX,sfr-bouygues.cloud
+  - DOMAIN-SUFFIX,portail-offres.top

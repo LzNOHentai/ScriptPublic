@@ -1,0 +1,19 @@
+# NAME: NexServer
+# Describtion: These domains should be accessed with Direct.
+# UPDATED: 2026-09-10
+# DOMAIN-SUFFIX: 9
+# IP-CIDR: 3
+# TOTAL: 12
+payload:
+  - DOMAIN-SUFFIX,kfzzxcx.com
+  - DOMAIN-SUFFIX,durable0762.com
+  - DOMAIN-SUFFIX,delirium9599.com
+  - DOMAIN-SUFFIX,wrecking7857.com
+  - DOMAIN-SUFFIX,carrousel6917.com
+  - DOMAIN-SUFFIX,simmering3378.com
+  - DOMAIN-SUFFIX,blasphemy4985.com
+  - DOMAIN-SUFFIX,destitute2725.com
+  - DOMAIN-SUFFIX,prolonged3729.com
+  - IP-CIDR,87.83.109.0/24,no-resolve
+  - IP-CIDR,142.248.148.0/24,no-resolve
+  - IP-CIDR,209.248.34.0/24,no-resolve

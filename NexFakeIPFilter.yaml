@@ -1,0 +1,14 @@
+# NAME: NexFakeIPFilter
+# Describtion: These domains should be resolved directly.
+# UPDATED: 2026-09-10
+# DOMAIN: 8
+# TOTAL: 8
+payload:
+  - DOMAIN,33c52303-724b-40f7-a2d5-b75a3214fb11.0ztnlk7gnu.sbs
+  - DOMAIN,6548835f-18d9-4c17-b4bb-13d9db0cf398.sj6lx43i4o.sbs
+  - DOMAIN,f57c8b78-2f51-46d6-91e7-c56b2cff5c1e.0ztnlk7gnu.sbs
+  - DOMAIN,08383745-a15a-4126-8a6c-7934600fdcf6.dnspwsop2w.sbs
+  - DOMAIN,89520adb-d9c3-40dd-b73f-f5319b8fbd54.0ztnlk7gnu.sbs
+  - DOMAIN,179d8ac0-d299-49ee-a042-f69d26bc54a7.sj6lx43i4o.sbs
+  - DOMAIN,4ba77a3e-115d-4c52-9c70-7c343ca50a61.0ztnlk7gnu.sbs
+  - DOMAIN,ba4503a9-8305-407a-a3ee-4ffa90b34f45.dnspwsop2w.sbs
