@@ -1,0 +1,19 @@
+# NAME: WebRTC
+# Describtion: These WebRTC ports should be reject for privacy unless you need to use it temporarily.
+# UPDATED: 2026-09-24
+# DST-PORT: 10
+# DOMAIN-KEYWORD: 1
+# TOTAL: 11
+
+payload:
+  - DST-PORT,3478
+  - DST-PORT,5349
+  - DST-PORT,19302
+  - DST-PORT,19303
+  - DST-PORT,19304
+  - DST-PORT,19305
+  - DST-PORT,19306
+  - DST-PORT,19307
+  - DST-PORT,19308
+  - DST-PORT,19309
+  - DOMAIN-KEYWORD,stun
