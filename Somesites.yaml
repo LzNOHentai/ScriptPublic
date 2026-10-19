@@ -1,29 +1,25 @@
 # NAME: Somesites
-# Describtion: These rules should be routed to except for JP/KR.
-# UPDATED: 2026-10-17
-# DOMAIN-SUFFIX: 46
+# Describtion: These rules should be routed to any region except for JP.
+# UPDATED: 2026-10-19
+# DOMAIN-SUFFIX: 35
 # DOMAIN-KEYWORD: 2
-# DOMAIN-REGEX: 1
-# TOTAL: 49
+# TOTAL: 37
 payload:
-  - DOMAIN-SUFFIX,e-hentai.org
-  - DOMAIN-SUFFIX,exhentai.org
-  - DOMAIN-SUFFIX,ehgt.org
-  - DOMAIN-SUFFIX,hath.network
-  - DOMAIN-SUFFIX,hentaiverse.org
-  - DOMAIN-SUFFIX,ehwiki.org
-  - DOMAIN-SUFFIX,exhentai55ld2wyap5juskbm67czulomrouspdacjamjeloj7ugjbsad.onion
-  - DOMAIN-SUFFIX,nhentai.net
-  - DOMAIN-SUFFIX,18comic.vip
-  - DOMAIN-SUFFIX,18comic.org
-  - DOMAIN-SUFFIX,jmcomic.me
-  - DOMAIN-SUFFIX,jmcomic1.me
+  # AGE动漫
+  - DOMAIN-SUFFIX,agedm.org
+  - DOMAIN-SUFFIX,agedm.app
+  - DOMAIN-SUFFIX,agedm.live
+  - DOMAIN-SUFFIX,agedm.vip
+  - DOMAIN-SUFFIX,age.tv
+  - DOMAIN-SUFFIX,agefans.la
+  - DOMAIN-SUFFIX,agedm.io
+
+  # hanime1
   - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,hanimeone.me
   - DOMAIN-SUFFIX,hanime1.com
-  - DOMAIN-SUFFIX,jdbstatic.com
-  - DOMAIN-SUFFIX,jpvhub.com
-  - DOMAIN-SUFFIX,javhoo.com
+
+  # 绅士漫画
   - DOMAIN-SUFFIX,wnacg.com
   - DOMAIN-SUFFIX,wnacg.date
   - DOMAIN-SUFFIX,wnbbs.cc
@@ -31,27 +27,25 @@ payload:
   - DOMAIN-SUFFIX,wzip.download
   - DOMAIN-SUFFIX,mangafunb.fun
   - DOMAIN-SUFFIX,wzip.date
-  - DOMAIN-SUFFIX,irodoricomics.com
-  - DOMAIN-SUFFIX,agedm.org
-  - DOMAIN-SUFFIX,agedm.app
-  - DOMAIN-SUFFIX,agedm.live
-  - DOMAIN-SUFFIX,agedm.vip
-  - DOMAIN-SUFFIX,age.tv
-  - DOMAIN-SUFFIX,agefans.la
-  - DOMAIN-SUFFIX,acgrip.com
   - DOMAIN-SUFFIX,ksy.moe
-  - DOMAIN-SUFFIX,fakku.net
-  - DOMAIN-SUFFIX,jastusa.com
-  - DOMAIN-SUFFIX,mangacopy.com
-  - DOMAIN-SUFFIX,hmarket.io
-  - DOMAIN-SUFFIX,doujin.io
-  - DOMAIN-SUFFIX,nyaa.si
+  
+  # 其他
+  - DOMAIN-SUFFIX,acgrip.com
   - DOMAIN-SUFFIX,cycani.org
+  - DOMAIN-SUFFIX,doujin.io
   - DOMAIN-SUFFIX,denpasoft.com
+  - DOMAIN-SUFFIX,fakku.net
+  - DOMAIN-SUFFIX,irodoricomics.com
+  - DOMAIN-SUFFIX,nhentai.net
+  - DOMAIN-SUFFIX,jpvhub.com
+  - DOMAIN-SUFFIX,javhoo.com
+  - DOMAIN-SUFFIX,jastusa.com
   - DOMAIN-SUFFIX,jkforum.net
+  - DOMAIN-SUFFIX,mangacopy.com
+  - DOMAIN-SUFFIX,nyaa.si
+  - DOMAIN-SUFFIX,hmarket.io
   - DOMAIN-SUFFIX,av4us.asia
   - DOMAIN-SUFFIX,kiko-play-niptan.one
   - DOMAIN-SUFFIX,manhuagui.com
   - DOMAIN-KEYWORD,kemono
-  - DOMAIN-REGEX,javdb*.com
   - DOMAIN-KEYWORD,esjzone
